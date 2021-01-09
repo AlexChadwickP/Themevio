@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexChadwickP/Themevio/issues"
   },
-  "homepage": "https://github.com/AlexChadwickP/Themevio#readme"
+  "homepage": "https://github.com/AlexChadwickP/Themevio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
