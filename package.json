@@ -1,0 +1,19 @@
+{
+  "name": "themevio",
+  "version": "0.0.1",
+  "description": "Themevio is a social media website to share colour and font combinations",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexChadwickP/Themevio.git"
+  },
+  "author": "Alex Chadwick Peribanez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexChadwickP/Themevio/issues"
+  },
+  "homepage": "https://github.com/AlexChadwickP/Themevio#readme"
+}
